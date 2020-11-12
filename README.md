@@ -1,2 +1,2 @@
-# finalPjt-KH-
-(KH) final project
+# KH 19.08 ~ 20.01
+
